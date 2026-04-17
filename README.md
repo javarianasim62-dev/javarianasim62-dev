@@ -1,16 +1,37 @@
-## Hi there 👋
+# Javaria Nasim – Data Analyst Portfolio
 
-<!--
-**javarianasim62-dev/javarianasim62-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel. I focus on transforming data into meaningful business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### 1. Business Performance Analysis
+Analyzed business data to identify trends and key performance metrics.  
+🔗 https://github.com/javarianasim62-dev/business-performance-customer-insights
+
+---
+
+### 2. Customer Order Analysis
+Explored customer behavior, repeat purchases, and revenue contribution.  
+🔗 https://github.com/javarianasim62-dev/customer-order-analysis
+
+---
+
+### 3. Sales Performance Analysis
+Evaluated sales trends, product performance, and regional insights.  
+🔗 https://github.com/javarianasim62-dev/sales-performance-analysis
+
+---
+
+## Skills
+- Python (Pandas, Data Analysis)
+- SQL (Joins, Aggregations)
+- Power BI (Dashboards)
+- Excel (Data Cleaning)
+
+---
+
+## Goal
+Seeking a Junior Data Analyst role to apply data-driven decision-making skills.
