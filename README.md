@@ -1,4 +1,4 @@
-# Javaria Nasim – Data Analyst Portfolio
+# Jawairia Nasim – Data Analyst Portfolio
 
 ## About Me
 Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel. I focus on transforming data into meaningful business insights.
